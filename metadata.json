@@ -1,0 +1,6 @@
+{
+  "name": "Biến Đổi Khí Hậu & Hành Động Xanh Hậu Giang",
+  "description": "Trang thông tin giáo dục toàn diện về Biến đổi khí hậu của Trường Tiểu học, THCS và THPT FPT Hậu Giang: Khái niệm, Biểu hiện, Tác động tại Việt Nam & Hậu Giang, Giải pháp ứng phó, Mini game Ai Là Triệu Phú và Chatbot AI Kiến Sáng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
